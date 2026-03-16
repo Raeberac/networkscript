@@ -1,4 +1,4 @@
-Network Address Monitor 
+Network Address Monitor:  
 A simple, no-nonsense PowerShell script for keeping an eye on your network. I built this to have a clean, color-coded dashboard that actually tells me when things go sideways without having to dig through enterprise software.
 
 What it does
