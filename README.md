@@ -10,8 +10,6 @@ Maintenance/Snooze: If you’re rebooting a server, just flip it to "Snooze" so 
 
 Desktop Popups: If a node fails 3 times, you get a Windows popup notification.
 
-Note: The script stores your IP list and logs in your %TEMP%\NetworkMonitor folder, so it won't clutter up your project directory.
-
 The "Database"
 If you need to manually edit your list or check the logs, look here:
 C:\Users\<User>\AppData\Local\Temp\NetworkMonitor
