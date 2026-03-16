@@ -2,7 +2,7 @@ Network Address Monitor:
 A simple, no-nonsense PowerShell script for keeping an eye on your network. I built this to have a clean, color-coded dashboard that actually tells me when things go sideways.
 
 What it does: 
-Pings or Port Checks: If you don't provide a port, it just pings. If you do (like 80 or 443), it checks the service.
+Pings or Port Checks. If you don't provide a port, it just pings. If you do (like 80 or 443), it checks the service.
 
 Batch Editing: You can drop a comma-separated list to remove or snooze a bunch of stuff at once.
 
